@@ -51,5 +51,8 @@
                 </configuration>
             </plugin>
         </plugins>
+        <!-- Add this section to package as a war -->
+        <finalName>${project.artifactId}</finalName>
+        <packaging>war</packaging>
     </build>
 </project>
