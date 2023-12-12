@@ -3,7 +3,7 @@
 # Variables
 TOMCAT_HOME=/opt/tomcat
 WEBAPP_NAME=tomcat-java-servlets-sample-project
-WAR_FILE=target/tomcat-java-servlets-sample-project.war
+WAR_FILE=target/sample-project-1.0-SNAPSHOT.war
 
 # Stop Tomcat
 $TOMCAT_HOME/bin/shutdown.sh
