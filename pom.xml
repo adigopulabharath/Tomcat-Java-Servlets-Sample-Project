@@ -43,7 +43,7 @@
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <webResources>
                         <resource>
-                            <directory>${project.basedir}/src/main/webapp/WEB-INF/</directory>
+                            <directory>${project.basedir}/main/webapp/WEB-INF/</directory>
                             <includes>
                                 <include>**/*</include>
                             </includes>
